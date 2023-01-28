@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com)](https://github.com/0xRepox/qr-code-component-main/blob/master/design/desktop-design.jpg)
+- Solution URL: [Add solution URL here](https://github.com/0xRepox/qr-code-component-main/blob/master/design/desktop-design.jpg?raw=true)
 - Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://0xrepox.github.io/qr-code-component-main/))
 
 
